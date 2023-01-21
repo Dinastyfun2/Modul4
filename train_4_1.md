@@ -75,6 +75,7 @@
 ## Страница ПО
 Страница ПО отображается необходимое программное обеспечение рабочих мест указанного кабинета.
  Макет страницы расположен в приложение 4.
+ 
 
 
 
@@ -99,7 +100,7 @@
 
 
 
-  ![alt tag](https://github.com/vishhh1/vishhh1/blob/main/3.jpg?raw=true)
+  <image src = "https://github.com/Dinastyfun2/TZ/blob/main/Оснащение.png">
 
 
 
@@ -107,7 +108,7 @@
 
 
 
-  ![alt tag](https://github.com/vishhh1/vishhh1/blob/main/4.jpg?raw=true)
+  <image src = "https://github.com/Dinastyfun2/TZ/blob/main/ПО.png">
 
 
 
@@ -116,7 +117,7 @@
 
 
 
-  ![alt tag](https://github.com/vishhh1/vishhh1/blob/main/5.jpg?raw=true)
+   <image src = "https://github.com/Dinastyfun2/TZ/blob/main/Админ.png">
 
 
 
