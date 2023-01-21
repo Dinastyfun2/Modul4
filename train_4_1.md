@@ -83,7 +83,7 @@
 
 
 
- ![alt tag](https://github.com/vishhh1/vishhh1/blob/main/1.jpg?raw=true)
+ <image src = "Авторизация,Регистрация.png">
 
 
 
