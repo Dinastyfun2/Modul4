@@ -93,7 +93,7 @@
 
 <image src = "schema.png">
  
-||Computer||||
+||Computer|||
 |---|---|---|---|
 |PK| Invetarniy nomer|Int(30)||
 ||nazvanie|varchar(255)|Название|
