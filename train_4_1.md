@@ -91,7 +91,7 @@
 
 
 
- <image src = "(https://github.com/Dinastyfun2/TZ/blob/main/Кабинеты.png)">
+ <image src = "https://github.com/Dinastyfun2/TZ/blob/main/Кабинеты.png">
 
 
 
