@@ -83,7 +83,7 @@
 
 
 
- <image src = "Авторизация,Регистрация.png">
+ <image src = "[Авторизация,Регистрация.png](https://github.com/Dinastyfun2/TZ/blob/main/Авторизация%2CРегистрация.png)">
 
 
 
