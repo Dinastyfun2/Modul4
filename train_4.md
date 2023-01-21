@@ -97,7 +97,29 @@
 |---|---|---|---|
 |PK| Invetarniy nomer|Int(30)||
 ||nazvanie|varchar(255)|Название|
+||Proizvoditel|varchar(255)||
+||Kabinet|int(30)||
+||Komplektuyschee|varchar(255)||
+	
+||kabinet|||
+|---|---|---|---|
+|PK|ID_kabineta|Int(30)||
+||Nomer_Kabineta|int(30)||
+||kolichestvo_mest|int(30)||
 
+||Harakteristika_pk|||
+|---|---|---|---|
+|PK|ID_PC|int(30)||
+||Proizvoditel|varchar(255)||
+||Potreblenie_energii|int(255)||
+||PO_ID|int(30)||
+	
+||PO|||
+|---|---|---|---|
+|PK|PO_ID|int(15)||
+||vid|varchar(255)||
+||Razrabotchik|varchar(25)||
+||comp_info|varchar(255)||
 ```sql
  DROP TABLE IF EXISTS `Harakteristika_PK`;
 DROP TABLE IF EXISTS `PO`;
