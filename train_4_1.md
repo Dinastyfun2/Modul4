@@ -91,7 +91,7 @@
 
 
 
- ![alt tag](https://github.com/vishhh1/vishhh1/blob/main/2.jpg?raw=true)
+ <image src = "(https://github.com/Dinastyfun2/TZ/blob/main/Кабинеты.png)">
 
 
 
