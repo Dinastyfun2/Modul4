@@ -95,31 +95,31 @@
  
 ||Computer|||
 |---|---|---|---|
-|PK| Invetarniy nomer|Int(30)||
+|PK| Invetarniy nomer|Int(30)|Инвентарный номер|
 ||nazvanie|varchar(255)|Название|
-||Proizvoditel|varchar(255)||
-||Kabinet|int(30)||
-||Komplektuyschee|varchar(255)||
+||Proizvoditel|varchar(255)|Производитель|
+||Kabinet|int(30)|Кабинет|
+||Komplektuyschee|varchar(255)|Комплектующие|
 	
 ||kabinet|||
 |---|---|---|---|
-|PK|ID_kabineta|Int(30)||
-||Nomer_Kabineta|int(30)||
-||kolichestvo_mest|int(30)||
+|PK|ID_kabineta|Int(30)|Айди кабинета|
+||Nomer_Kabineta|int(30)|Номер кабинета|
+||kolichestvo_mest|int(30)|Количество мест|
 
 ||Harakteristika_pk|||
 |---|---|---|---|
-|PK|ID_PC|int(30)||
-||Proizvoditel|varchar(255)||
-||Potreblenie_energii|int(255)||
-||PO_ID|int(30)||
+|PK|ID_PC|int(30)|Айди копьютера|
+||Proizvoditel|varchar(255)|Производитель|
+||Potreblenie_energii|int(255)|Потребление энергии|
+||PO_ID|int(30)|Айди программного обеспечения|
 	
 ||PO|||
 |---|---|---|---|
-|PK|PO_ID|int(15)||
-||vid|varchar(255)||
-||Razrabotchik|varchar(25)||
-||comp_info|varchar(255)||
+|PK|PO_ID|int(15)|Айди ПО|
+||vid|varchar(255)|Вид|
+||Razrabotchik|varchar(25)|Разработчик|
+||comp_info|varchar(255)|Инфо о ПК|
 ```sql
  DROP TABLE IF EXISTS `Harakteristika_PK`;
 DROP TABLE IF EXISTS `PO`;
